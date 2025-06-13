@@ -21,7 +21,7 @@ Welcome to my data analytics portfolio! This repository showcases a variety of p
 
 ### 3. Amazon Web Scraper  
 - **Description:** Built a web scraper to extract product data and reviews from Amazon for sentiment analysis and price tracking.  
-- **Skills:** Web scraping (BeautifulSoup, Selenium), Python, data extraction  
+- **Skills:** Web scraping (BeautifulSoup), Python, data extraction  
 - **Highlights:** Automated data collection for thousands of products with clean export-ready data.
 
 ### 4. Face Detection Application  
@@ -34,7 +34,7 @@ Welcome to my data analytics portfolio! This repository showcases a variety of p
 ## 🛠 Tools & Technologies
 
 - **Languages:** Python, SQL  
-- **Libraries:** Pandas, NumPy, BeautifulSoup, Selenium, OpenCV  
+- **Libraries:** Pandas, NumPy, BeautifulSoup, OpenCV  
 - **Visualization:** Tableau, Matplotlib, Seaborn  
 - **Other:** Jupyter Notebook, Git, Excel  
 
@@ -44,7 +44,7 @@ Welcome to my data analytics portfolio! This repository showcases a variety of p
 
 Each project folder contains:  
 - A Jupyter Notebook or scripts with the code  
-- Data files (where applicable)  
+- Data files and visualizations  
 - Documentation explaining the approach and findings  
 
 Feel free to explore the projects and reach out if you have any questions or collaboration ideas!
