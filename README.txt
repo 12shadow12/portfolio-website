@@ -1,4 +1,4 @@
-Portfolio: [https://12shadow12.github.io/RichBuiPortfolio.github.io/]
+Portfolio: [https://12shadow12.github.io/RichBuiPortfolio.github.io/](https://12shadow12.github.io/RichBuiPortfolio.github.io/)
 
 
 # 📊 Data Analyst Portfolio
